@@ -1,0 +1,16 @@
+.container {
+    margin: 0 auto;
+    width: 1300px;
+    height: 100px;
+}
+
+.main {
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+
+.grey {
+    font-weight: 500;
+}

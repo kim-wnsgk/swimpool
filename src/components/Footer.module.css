@@ -1,0 +1,9 @@
+.container {
+    background-color: black;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: #cccccc;
+    text-align: center;
+}

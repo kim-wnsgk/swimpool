@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import styles from './Home.module.css'
 import Banner from '../components/Banner'
+import Footer from '../components/Footer'
 
 function Home() {
     return (
@@ -8,14 +9,23 @@ function Home() {
             <Banner />
             <div className={styles.blocks}>
                 <div className={styles.block}>
-                    <Link to="/rank" className={styles.blockLink}>여행지 순위</Link>
+                    <Link to="/about" className={styles.blockLink}>수영에 대하여</Link>
                 </div>
                 <div className={styles.block}
                     onClick={() => console.log("press")}>
-                    <Link to="/location" className={styles.blockLink}>지도</Link>
+                    <Link to="/list" className={styles.blockLink}>전국 지역별 수영장</Link>
                 </div>
             </div>
-
+            <div className={styles.blocks}>
+                <div className={styles.block}>
+                    <Link to="/method" className={styles.blockLink}>영법</Link>
+                </div>
+                <div className={styles.block}
+                    onClick={() => console.log("press")}>
+                    <Link to="/coution" className={styles.blockLink}>주의사항</Link>
+                </div>
+            </div>
+            <Footer />
         </div >
     );
 }
