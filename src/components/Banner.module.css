@@ -1,0 +1,16 @@
+@font-face {
+    font-family: silkscreen;
+    src: url(../fonts/Silkscreen/Silkscreen-Bold.ttf);
+}
+
+Link {
+    text-decoration: none black;
+}
+
+.title {
+    color: aliceblue;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'silkscreen';
+    text-shadow: -5px 0 #000, 0 8px #000, 5px 0 #000, 0 -5px #000;
+}
