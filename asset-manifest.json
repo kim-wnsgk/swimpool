@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/swimpool.github.io/static/css/main.7d46bd6b.css",
-    "main.js": "/swimpool.github.io/static/js/main.173765b5.js",
-    "static/media/pool.jpg": "/swimpool.github.io/static/media/pool.db92d041526ebf6835fa.jpg",
-    "static/media/Silkscreen-Bold.ttf": "/swimpool.github.io/static/media/Silkscreen-Bold.0d5ef208970ed5db1ab6.ttf",
-    "index.html": "/swimpool.github.io/index.html",
-    "main.7d46bd6b.css.map": "/swimpool.github.io/static/css/main.7d46bd6b.css.map",
-    "main.173765b5.js.map": "/swimpool.github.io/static/js/main.173765b5.js.map"
+    "main.css": "/swimpool.git/static/css/main.3e7f5e51.css",
+    "main.js": "/swimpool.git/static/js/main.df07a31d.js",
+    "static/media/pool.jpg": "/swimpool.git/static/media/pool.db92d041526ebf6835fa.jpg",
+    "static/media/Silkscreen-Bold.ttf": "/swimpool.git/static/media/Silkscreen-Bold.0d5ef208970ed5db1ab6.ttf",
+    "index.html": "/swimpool.git/index.html",
+    "main.3e7f5e51.css.map": "/swimpool.git/static/css/main.3e7f5e51.css.map",
+    "main.df07a31d.js.map": "/swimpool.git/static/js/main.df07a31d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d46bd6b.css",
-    "static/js/main.173765b5.js"
+    "static/css/main.3e7f5e51.css",
+    "static/js/main.df07a31d.js"
   ]
 }
