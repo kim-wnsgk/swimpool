@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/swimpool/static/css/main.8a7643d8.css",
-    "main.js": "/swimpool/static/js/main.f728fee9.js",
+    "main.js": "/swimpool/static/js/main.27cdaa92.js",
     "static/media/pool.jpg": "/swimpool/static/media/pool.db92d041526ebf6835fa.jpg",
     "static/media/Silkscreen-Bold.ttf": "/swimpool/static/media/Silkscreen-Bold.0d5ef208970ed5db1ab6.ttf",
     "index.html": "/swimpool/index.html",
     "main.8a7643d8.css.map": "/swimpool/static/css/main.8a7643d8.css.map",
-    "main.f728fee9.js.map": "/swimpool/static/js/main.f728fee9.js.map"
+    "main.27cdaa92.js.map": "/swimpool/static/js/main.27cdaa92.js.map"
   },
   "entrypoints": [
     "static/css/main.8a7643d8.css",
-    "static/js/main.f728fee9.js"
+    "static/js/main.27cdaa92.js"
   ]
 }
